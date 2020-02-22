@@ -20,8 +20,10 @@
 
 ## Guides
 - [Airbnb JS styleguide](https://github.com/airbnb/javascript) - Best practices and styleguide for the airbnb
+- [Front-End checklist](https://github.com/thedaviddias/Front-End-Checklist) - very big lis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzMzMDg2MzIsMjMwMTMzNTg0LDE0Nj
-kyNjkwMzAsNTE2NTE3ODUxLDkyMzYzMTQ4MiwtMTM4OTk3OTk4
-OSwtMTc2NDg2MjQ5NCwxMDAzNzM4NDgzXX0=
+eyJoaXN0b3J5IjpbLTEzOTc0NDg5ODksLTEwMzMzMDg2MzIsMj
+MwMTMzNTg0LDE0NjkyNjkwMzAsNTE2NTE3ODUxLDkyMzYzMTQ4
+MiwtMTM4OTk3OTk4OSwtMTc2NDg2MjQ5NCwxMDAzNzM4NDgzXX
+0=
 -->
