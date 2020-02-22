@@ -4,6 +4,7 @@
  2. Demos
  3. Plugins
  4. Books
+ 5. Guides
 
 ## Tutorials
 
@@ -12,8 +13,11 @@
 
 ## Books
 - [Getify JS Book](https://github.com/getify/You-Dont-Know-JS) - One of the best JS Books. Hosted at github
+
+## Guides
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2OTI2OTAzMCw1MTY1MTc4NTEsOTIzNj
-MxNDgyLC0xMzg5OTc5OTg5LC0xNzY0ODYyNDk0LDEwMDM3Mzg0
-ODNdfQ==
+eyJoaXN0b3J5IjpbMTkwMzI0MDIzMCwxNDY5MjY5MDMwLDUxNj
+UxNzg1MSw5MjM2MzE0ODIsLTEzODk5Nzk5ODksLTE3NjQ4NjI0
+OTQsMTAwMzczODQ4M119
 -->
