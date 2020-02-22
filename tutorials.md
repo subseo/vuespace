@@ -1,7 +1,9 @@
 
 # Tutorials
 
-> Written with [StackEdit](https://stackedit.io/).
+1.	VueX
+	2.	test
+2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODM3NTE1NDBdfQ==
+eyJoaXN0b3J5IjpbNjcyMDczMTMzXX0=
 -->
