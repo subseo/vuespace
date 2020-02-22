@@ -7,9 +7,9 @@
 ## Tutorials
 
 ## Demos
-- [Realworld](https://github.com/gothinkster/realworld) - Medium with alot of backends and frontends
+- [Realworld](https://github.com/gothinkster/realworld) - Copy of Medium App with alot of backends and frontends
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNzA5OTk0MywtMTM4OTk3OTk4OSwtMT
-c2NDg2MjQ5NCwxMDAzNzM4NDgzXX0=
+eyJoaXN0b3J5IjpbOTIzNjMxNDgyLC0xMzg5OTc5OTg5LC0xNz
+Y0ODYyNDk0LDEwMDM3Mzg0ODNdfQ==
 -->
