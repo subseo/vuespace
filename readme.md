@@ -15,9 +15,9 @@
 - [Getify JS Book](https://github.com/getify/You-Dont-Know-JS) - One of the best JS Books. Hosted at github
 
 ## Guides
-- 
+- [Airbnb JS styleguide](https://github.com/airbnb/javascript) - Best practices and styleguide for the airbnb 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzI0MDIzMCwxNDY5MjY5MDMwLDUxNj
-UxNzg1MSw5MjM2MzE0ODIsLTEzODk5Nzk5ODksLTE3NjQ4NjI0
-OTQsMTAwMzczODQ4M119
+eyJoaXN0b3J5IjpbOTczMTQ5NDEyLDE0NjkyNjkwMzAsNTE2NT
+E3ODUxLDkyMzYzMTQ4MiwtMTM4OTk3OTk4OSwtMTc2NDg2MjQ5
+NCwxMDAzNzM4NDgzXX0=
 -->
